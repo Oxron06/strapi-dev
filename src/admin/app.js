@@ -10,7 +10,7 @@ export default {
       logo: newLogo,
     }, 
     head: {
-      favicon: 
+      favicon: newLogo,
     },
   },
   bootstrap(app){
